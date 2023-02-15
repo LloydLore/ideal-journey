@@ -1,0 +1,5 @@
+#+title: Readme
+
+* Project Background
+
+This is purely a personal project which record the journey for web development learning.
